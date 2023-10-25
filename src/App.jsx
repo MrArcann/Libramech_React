@@ -6,11 +6,13 @@ import Projeler from "./pages/Projeler.jsx";
 import Referanslar from "./pages/Referanslar.jsx";
 import İletişim from "./pages/İletişim.jsx";
 import Header from "./components/Header.jsx";
+import Footer from "./components/Footer.jsx"
+
+
 
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
-import "./App.css";
-import libralogo from './assets/Libra_transparan'
+
 
 function App() {
 
@@ -24,6 +26,7 @@ function App() {
         <Route path="/referanslar" element={<Referanslar />} />
         <Route path="/iletişim" element={<İletişim />} />
       </Routes>
+      <Footer/>
     </BrowserRouter>
   );
 }

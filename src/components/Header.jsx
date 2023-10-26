@@ -4,7 +4,7 @@ import { Link, useNavigate } from 'react-router-dom';
 
 export default function Header() {
   return (
-    <header className=" bg-orange-500 shadow-sm ">
+    <header className=" bg-orange-500 shadow-sm rounded-b-xl">
       <div className=" flex justify-between items-center max-w-6xl mx-auto p-3 h-32">
 
         

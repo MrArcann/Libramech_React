@@ -6,7 +6,7 @@ import Hakkımızda from "./pages/Hakkımızda.jsx";
 import Projeler from "./pages/Projeler.jsx";
 import Referanslar from "./pages/Referanslar.jsx";
 import İletişim from "./pages/İletişim.jsx";
-import Hizmetler from './pages/Hizmetler.jsx'
+import Hizmetler from "./pages/Hizmetler.jsx";
 
 import Header from "./components/Header.jsx";
 import Footer from "./components/Footer.jsx";

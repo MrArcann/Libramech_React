@@ -7,7 +7,7 @@ export default function Footer() {
       <div class="flex items-center justify-center border-b-2 border-neutral-200 p-6 dark:border-neutral-500 lg:justify-between">
         <div class="mr-12 hidden lg:block">
           <span>
-            Libramech sosyal medya hesaplarında bizi takip edebilirsiniz:
+            Libramech sosyal medya hesaplarından bizi takip edebilirsiniz:
           </span>
         </div>
 

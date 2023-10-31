@@ -80,10 +80,12 @@ export default function Footer() {
           </div>
 
           <div className="">
-            <h6 className="mb-4 flex justify-center font-semibold uppercase md:justify-start">
-              Libramech
-            </h6>
-
+            <Link to="/">
+              <h6 className="mb-4 flex justify-center font-semibold uppercase md:justify-start">
+                Libramech
+              </h6>
+            </Link>
+            
             <Link to="/hakkımızda">
               <p className=" my-4">
                 <a href="#!" class="text-neutral-600 dark:text-neutral-200">

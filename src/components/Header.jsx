@@ -39,13 +39,13 @@ export default function Header() {
               </button>
               <ul
                 tabindex="0"
-                className="dropdown-content z-[1] menu p-4 shadow bg-base-100 rounded-box w-40"
+                className="dropdown-content z-[1] menu p-4 shadow bg-orange-400 rounded-box w-40"
               >
-                <li className="bg-orange-400 rounded-md">
-                  <a>Danışmanlık</a>
+                <li className="rounded-md">
+                  Danışmanlık
                 </li>
                 <li>
-                  <a>İmalat</a>
+                  <a href="">İmalat</a>
                 </li>
                 <li>
                   <a>Mekatronik</a>

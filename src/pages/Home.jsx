@@ -4,8 +4,8 @@ export default function Home() {
   return (
     <div>
       <div className="carousel w-auto h-96 ">
-        <div id="slide1" className="carousel-item relative w-full">
-          <img src="src\assets\images\Anasayfa\001.jpg" className="w-full " />
+        <div id="slide1" className="carousel-item relative w-full ">
+          <img src="src\assets\images\Anasayfa\001.jpg" className="w-full   " />
           <div className=" absolute flex max-w-2xl ml-44 mt-24 ">
             <h1 className="text-5xl font-bold text-white">
               Eğer doğru seçimi yapamazsak, onlar da hata yapar.
@@ -56,7 +56,7 @@ export default function Home() {
         </div>
 
         <div id="slide4" className="carousel-item relative w-full">
-          <img src="src\assets\images\Anasayfa\004.png" className="w-full" />
+          <img src="src\assets\images\Anasayfa\006.jpg" className="w-full" />
           <div className=" absolute flex max-w-2xl ml-44 mt-24 ">
             <h1 className="text-5xl font-bold text-white">
               Eğer doğru seçimi yapamazsak, onlar da hata yapar.

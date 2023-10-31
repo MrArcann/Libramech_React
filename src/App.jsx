@@ -11,7 +11,6 @@ import Hizmetler from "./pages/Hizmetler.jsx";
 import Header from "./components/Header.jsx";
 import Footer from "./components/Footer.jsx";
 
-
 function App() {
   return (
     <BrowserRouter>

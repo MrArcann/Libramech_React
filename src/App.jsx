@@ -10,11 +10,13 @@ import Hizmetler from "./pages/Hizmetler.jsx";
 
 import Header from "./components/Header.jsx";
 import Footer from "./components/Footer.jsx";
+import Carousel from './components/Carousel.jsx'
 
 function App() {
   return (
     <BrowserRouter>
       <Header />
+      <Carousel />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/hakkımızda" element={<Hakkımızda />} />

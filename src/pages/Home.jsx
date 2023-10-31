@@ -3,6 +3,7 @@ import React from "react";
 
 export default function Home() {
   return (
+
     <div className="carousel w-full h-96 ">
       <div id="slide1" className="carousel-item relative w-full">
         <img
